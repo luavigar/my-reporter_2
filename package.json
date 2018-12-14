@@ -1,6 +1,6 @@
 {
   "name": "my-reporter_2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Paquete de prueba para publicar nuestros módulos.",
   "main": "index.js",
   "private": false,
